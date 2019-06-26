@@ -1,4 +1,4 @@
 # conway_Game
 Conway's Game of Life, in Javascript
 
-See finished web application here: https://codepen.io/matthewzito/pen/vwogzR
+Check it out here: https://matthewzito.github.io/conway_Game/
