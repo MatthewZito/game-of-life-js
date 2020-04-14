@@ -4,4 +4,4 @@ Rest in peace, John Conway; I promise I will nigh code something other than The 
 
 The architecture here was relatively simple - I just hooked into the DOM by hi-jacking HTML Canvas (essentially what Reactjs does). Subsequently, we load our custom incarnation of Conway's algorithm...
  
-(Try it here)[https://matthewzito.github.io/game-of-life-js/]
+[Try it here](https://matthewzito.github.io/game-of-life-js/)
